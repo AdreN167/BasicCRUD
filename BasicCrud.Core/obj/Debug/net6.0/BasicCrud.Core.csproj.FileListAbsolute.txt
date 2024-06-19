@@ -1,0 +1,16 @@
+D:\Projects\BasicCrud\BasicCrud.Core\bin\Debug\net6.0\BasicCrud.Core.deps.json
+D:\Projects\BasicCrud\BasicCrud.Core\bin\Debug\net6.0\BasicCrud.Core.dll
+D:\Projects\BasicCrud\BasicCrud.Core\bin\Debug\net6.0\BasicCrud.Core.pdb
+D:\Projects\BasicCrud\BasicCrud.Core\bin\Debug\net6.0\BasicCrud.Domain.dll
+D:\Projects\BasicCrud\BasicCrud.Core\bin\Debug\net6.0\BasicCrud.Domain.pdb
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.csproj.AssemblyReference.cache
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.AssemblyInfoInputs.cache
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.AssemblyInfo.cs
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.csproj.CoreCompileInputs.cache
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.sourcelink.json
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.csproj.CopyComplete
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.dll
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\refint\BasicCrud.Core.dll
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\BasicCrud.Core.pdb
+D:\Projects\BasicCrud\BasicCrud.Core\obj\Debug\net6.0\ref\BasicCrud.Core.dll

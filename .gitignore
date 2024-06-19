@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/MetricCollector/v17/.wsuo
+.vs/MetricCollector/v17/.suo
+.vs/MetricCollector/FileContentIndex/137e056e-97ec-4cd9-9510-3248b5a3c6b9.vsidx
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/MetricCollector/FileContentIndex/87e94e46-e8fe-49d3-962c-ea64315ccc0e.vsidx
+.vs/MetricCollector/FileContentIndex/f0b79fc5-8259-4ea0-a9c0-e3cfd2548ea4.vsidx
+.vs/MetricCollector/FileContentIndex/read.lock
+
+# MacOS
+.DS_Store
+
+.vscode
+.vs
